@@ -80,5 +80,7 @@ public class Prueba_java {
         multiplicacion = g*h;
         //SALIDA DE LOS DATOS INGRESADOS Y SU RESULTADO
         System.out.println("EL RESULTADO DE ESTA MULTIPLICACION ES:  " + multiplicacion);
+        
+        System.out.println("hola mundo");
     }
 }
